@@ -28,9 +28,9 @@ public class testRegisterPage {
         registerPage.selectCreateAccount();
         registerPage.selectRegister();
 
-        registerPage.firstNameInput("Viasdasdnce");
-        registerPage.lastNameInput("Cartasdasder");
-        registerPage.emailInput("vcasdasdasd15@raptors.com");
+        registerPage.firstNameInput("Danny");
+        registerPage.lastNameInput("Phantom");
+        registerPage.emailInput("danny.phantom@ghosthunters.com");
         registerPage.phoneNumberInput("5342826451");
         registerPage.passwordInput("JOR76O2OQ8UX");
         registerPage.repeatPasswordInput("JOR76O2OQ8UX");
